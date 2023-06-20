@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    width: 10%;
+    margin: 50px;
+    border: double;
+}
+
+td {
+    padding: 10px;
+    border: double;
+    text-align: center;
+}
